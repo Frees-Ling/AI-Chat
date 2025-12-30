@@ -1,5 +1,7 @@
 #Python
 .venv
-
-#MacOS_
+Ai_tool/__pycache__
+#MacOS
 .DS_Store
+
+.idea
