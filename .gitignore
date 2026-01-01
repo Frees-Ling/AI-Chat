@@ -1,7 +1,11 @@
 #Python
-.venv
+.venv/
+__pycache__/
 Ai_tool/__pycache__
+*.pyc
+
 #MacOS
 .DS_Store
 
-.idea
+.idea/
+.vscode/
